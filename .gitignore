@@ -2,5 +2,5 @@
 *.config
 bin/
 obj/
-/runpath/
-!/runpath/HalconTest.exe
+runpath/
+!runpath/HalconTest.exe
