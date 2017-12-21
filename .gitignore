@@ -3,4 +3,4 @@
 bin/
 obj/
 runpath/*
-!runpath/images/
+!runpath/images/test1.png
