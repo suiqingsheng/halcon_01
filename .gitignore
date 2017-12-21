@@ -3,4 +3,4 @@
 bin/
 obj/
 /runpath/
-!/runpath/images/test1.png
+!/runpath/HalconTest.exe
