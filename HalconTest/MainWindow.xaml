@@ -1,0 +1,9 @@
+﻿<Window x:Class="HalconTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:halcon="clr-namespace:HalconDotNet;assembly=halcondotnetxl"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <halcon:HSmartWindowControlWPF x:Name="hswc" />
+    </Grid>
+</Window>
