@@ -2,5 +2,4 @@
 *.config
 bin/
 obj/
-runpath/*
-!runpath/images/
+!bin/images/test1.png
