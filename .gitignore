@@ -1,3 +1,5 @@
 *.suo
 *.config
-/bin/
+bin/
+!./bin/images
+obj/
